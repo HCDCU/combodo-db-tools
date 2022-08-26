@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>combodo-db-tools</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Eric]]></author>
+	<label><![CDATA[Database Maintenance Tools]]></label>
+	<description><![CDATA[Database maintenance tools]]></description>
+	<version>2.7.5</version>
+	<modules type="array">
+		<module>
+			<id>combodo-db-tools</id>
+			<version>tags/2.7.5</version>
+		</module>
+	</modules>
+	<release_date>2021-09-03</release_date>
+	<version_description><![CDATA[
+                - Rebuild extension for iTop 2.7
+            ]]></version_description>
+	<itop_version_min></itop_version_min>
+	<status></status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>
